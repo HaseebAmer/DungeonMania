@@ -1,2 +1,3 @@
 # DungeonMania
-COMP2511 Java Backend
+Built the backend for a 2D-Java game.
+
